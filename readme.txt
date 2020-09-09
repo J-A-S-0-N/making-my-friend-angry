@@ -1,0 +1,1 @@
+so this will keep printing crackhead to my freind, this is not directly connected to the wechat(the chatting app) but this script will controll the curser/keyboard so if you are trying it out make sure that you set the correct mouse postion in the code if you read and understan the code you will know where the pos should be in 
